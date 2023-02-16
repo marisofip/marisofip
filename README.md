@@ -1,3 +1,6 @@
+
+![Banner](https://github.com/marisofip/marisofip/raw/main/banner.gif)
+
 ### Welcome  <img src="https://github.com/marioandbri/marioandbri/raw/main/wave.gif" width="36px" height="36px"/>
 
 
