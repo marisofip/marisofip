@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/marisofip/marisofip/raw/main/banner.gif)
 
-### Welcome  <img src="https://github.com/marioandbri/marioandbri/raw/main/wave.gif" width="36px" height="36px"/>
+### Welcome  <img src="https://github.com/marisofip/marisofip/raw/main/hola.gif" width="36px" height="36px"/>
 
 
 - 🔭 I’m currently working on my portfolio
@@ -27,6 +27,11 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?&style=flat&logo=postman&logoColor=orange)
 ![Insomnia](https://img.shields.io/badge/Insomnia-000000?&style=flat&logo=insomnia&logoColor=purple)
 
+
+<h2><img width="28" src="https://github.com/marisofip/marisofip//raw/main/carta.gif" /><i> Connect With Me:</i></h2>
+
+   <strong>LinkedIn</strong>:
+   <a href="https://www.linkedin.com/in/marisofi/"> <img align="center" src="https://img.shields.io/badge/Mariandris-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 
 
 
