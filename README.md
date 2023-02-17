@@ -1,17 +1,23 @@
 
 ![Banner](https://github.com/marisofip/marisofip/raw/main/banner.gif)
 
-### Welcome  <img src="https://github.com/marisofip/marisofip/raw/main/hola.gif" width="36px" height="36px"/>
+<div align="center">
+<h2>  Welcome  <img src="https://github.com/marisofip/marisofip/raw/main/hola.gif" width="36px" height="36px"/> </h2>
+</div>
+<br/>
+
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning QA testing.
+- 👯 I’m looking to collaborate on amazings projects.
+- 📫 How to reach me marisofipalencia@gmail.com.
 
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning about this tech world
-- 👯 I’m looking to collaborate on news amazings projects 
 
+<br/>
+<div align="center">
+<h2> 🛠 &nbsp;  Techs </h2>
 
-
-### 🛠 &nbsp;Techs 
-
+<br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -27,16 +33,23 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?&style=flat&logo=postman&logoColor=orange)
 ![Insomnia](https://img.shields.io/badge/Insomnia-000000?&style=flat&logo=insomnia&logoColor=purple)
 
+<br/>
 
 <h2><img width="28" src="https://github.com/marisofip/marisofip//raw/main/carta.gif" /><i> Connect With Me:</i></h2>
 
+<br/>
    <strong>LinkedIn</strong>:
    <a href="https://www.linkedin.com/in/marisofi/"> <img align="center" src="https://img.shields.io/badge/Mariandris-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 
+<br/>
+</div>
 
+<div align="end">
+<br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marisofip.visitor-badge&left_color=blue&right_color=black)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marisofip.visitor-badge&left_color=grey&right_color=black)
 
+</div>
 <!--
 **marisofip/marisofip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
