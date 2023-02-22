@@ -24,17 +24,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Gitpod](https://img.shields.io/badge/-gitpod-000000?&style=flat&logo=gitpod&logoColor=orange)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC) 
-         <br/>
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&style=flat&logo=bootstrap&logoColor=purple)
-![Miro](https://img.shields.io/badge/Miro-000000?&style=flat&logo=miro&logoColor=yellow)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Gitpod](https://img.shields.io/badge/-gitpod-000000?&style=flat&logo=gitpod&logoColor=orange)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=blue) 
+  <br/>
 ![Trello](https://img.shields.io/badge/Trello-000000?&style=flat&logo=trello&logoColor=blue)
 ![Postman](https://img.shields.io/badge/Postman-000000?&style=flat&logo=postman&logoColor=orange)
 ![Insomnia](https://img.shields.io/badge/Insomnia-000000?&style=flat&logo=insomnia&logoColor=purple)
-
+![Slack](https://img.shields.io/badge/Slack-000000?&style=flat&logo=slack&logoColor=white)
+         ![Miro](https://img.shields.io/badge/Miro-000000?&style=flat&logo=miro&logoColor=yellow)
+![Tableau](https://img.shields.io/badge/Tableau-000000?&style=flat&logo=tableau&logoColor=raimbow)
 <br/>
 
 <h2><img width="28" src="https://github.com/marisofip/marisofip//raw/main/carta.gif" /><i> Connect With Me:</i></h2>
